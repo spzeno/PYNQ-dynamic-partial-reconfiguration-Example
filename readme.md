@@ -57,7 +57,7 @@ set_property PR_FLOW true [current_project]
 
 create_reconfig_module -name rm_sub -partition_def [get_partition_defs pd_0] -define_from rm_sub
 
-### 问题：
+### 没有搞清楚的问题：
 
 #### 1.为什么部分位流加载之后查询到的IP是None？
 #### 2.pr里边的rm的address应该怎么配置
