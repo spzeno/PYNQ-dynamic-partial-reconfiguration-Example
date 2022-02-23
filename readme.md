@@ -6,6 +6,8 @@
 
 https://www.youtube.com/watch?v=sgjPbaguWCg
 
+https://www.youtube.com/watch?v=bY-ik39QI8w&list=PL9GWVTghqmkJKUHYGx-59WihvVO-d0y-f
+
 ### non-project mode下的DPR：
 
 https://www.bilibili.com/video/BV1nW41137MQ
