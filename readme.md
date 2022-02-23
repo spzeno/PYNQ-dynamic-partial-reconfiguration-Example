@@ -25,13 +25,9 @@ https://pynq.readthedocs.io/en/v2.3/overlay_design_methodology/overlay_tutorial.
 
 https://www.bilibili.com/video/BV14p4y1Y7MK
 
-### 可能遇到的问题：
+### 死机的问题的讨论：
 
-https://discuss.pynq.io/t/failed-on-a-simple-axi-lite-rm-with-partial-reconfiguration/833/3 （我录的视频中提到的）
-
-https://dj-park.github.io/posts/2022/1/PYNQ_PR_1/
-
-https://dj-park.github.io/posts/2022/1/PYNQ_PR_2/
+https://discuss.pynq.io/t/failed-on-a-simple-axi-lite-rm-with-partial-reconfiguration/833/3 
 
 ### xilinx文档：
 
@@ -45,7 +41,7 @@ https://www.xilinx.com/support/documentation/sw_manuals/xilinx2019_2/ug835-vivad
 
 
 ### 视频链接：
-
+https://www.bilibili.com/video/BV1Db4y1s7f6/
 
 ### 用到的tcl命令：
 
@@ -65,3 +61,4 @@ create_reconfig_module -name rm_sub -partition_def [get_partition_defs pd_0] -de
 #### 2.pr里边的rm的address应该怎么配置
 #### 3.https://www.xilinx.com/support/documentation/sw_manuals/xilinx2021_2/ug909-vivado-partial-reconfiguration.pdf 第4章P87 P88 P89
 #### 4.Partial Reconfiguration Decoupler是怎么用的
+#### 5.视频中提到的如果只有一个pr读写mmio时会死机的问题
