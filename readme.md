@@ -1,5 +1,5 @@
 # PYNQ DPR Demo
-# 这个Demo在PYNQ v2.7image和vivado 2019.1上实现了dynamic partial reconfiguration
+# 这个Demo在PYNQ v2.7image和vivado 2020.2上实现了dynamic partial reconfiguration
 
 ## 参考了以下资料：
 ### project mode下的DPR：
